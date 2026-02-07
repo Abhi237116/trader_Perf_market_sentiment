@@ -22,6 +22,13 @@ Install the necessary data science stack via pip:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 
+
+
+```
+Clone:
+```
+git clone https://github.com/Abhi237116/trader_Perf_market_sentiment
+
 ```
 
 ### 3. Data Files
