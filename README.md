@@ -93,4 +93,3 @@ The analysis reveals that market sentiment is a **coincident indicator** for per
 
 **Date:** February 2026
 
-Would you like me to help you format the specific **"Methodology"** section for your notebook to match this README?
